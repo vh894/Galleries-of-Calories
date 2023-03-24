@@ -29,4 +29,4 @@ Significance level: 0.01.
 As shown in the graph above, we got a p-value of 0.111, which is greater than our significance level of 0.01. Therefore, we failed to reject the null hypothesis. There is not sufficient evidence to support the claim that our model’s RMSE for short recipes is lower than its RMSE for long recipes.
 
 
-[^1]:<a href="https://www.usda.gov/media/press-releases/2014/01/16/american-adults-are-choosing-healthier-foods-consuming-healthier">Food and Nutrition Information Center (FNIC)</a>
+[^1]:<a href="https://www.nal.usda.gov/programs/fnic">Food and Nutrition Information Center (FNIC)</a>
