@@ -5,7 +5,7 @@
 ## Baseline Model
 ## Final Model
 
-<iframe src="assets/file-saturatedfat_vs_val.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/file-saturatedfat_vs_cal.html" width=800 height=600 frameBorder=0></iframe>
 
 ## Fairness Analysis
 
