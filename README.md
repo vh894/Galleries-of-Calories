@@ -26,6 +26,7 @@ Test statistic: Difference in RMSE (short minus long).
 Significance level: 0.01.
 
 <iframe src="assets/file-fairness.html" width=800 height=600 frameBorder=0></iframe>
+
 As shown in the graph above, we got a p-value of 0.111, which is greater than our significance level of 0.01. Therefore, we failed to reject the null hypothesis. There is not sufficient evidence to support the claim that our model’s RMSE for short recipes is lower than its RMSE for long recipes.
 
 
